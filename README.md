@@ -5,7 +5,7 @@
 
 🌟 Welcome to My GitHub!
 
-👨‍💻 About Me: I'm a passionate Software Engineer with a versatile and dynamic background in Computer Science, Engineering, and Business Administration. With a rich blend of technical prowess and business acumen, I specialize in crafting innovative solutions that bridge the gap between technology and practical applications. 
+👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally.
 
 💡 Expertise: 
 
@@ -17,7 +17,7 @@
 
 📱 Android App Development: Creating engaging and intuitive mobile experiences that connect and inspire. 
 
-🚀 My Mission: As a tech enthusiast and a problem-solver at heart, my goal is to develop cutting-edge solutions that make a real-world impact. Whether it's engineering challenges or business-centric projects, I'm always ready to explore new horizons and push the boundaries of what's possible. 
+🚀 My Mission: As a tech enthusiast, my goal is to develop cutting-edge solutions that make a real-world impact. I'm always ready to explore new horizons and push the boundaries of what's possible. 
 
 🤝 Let's Connect: Whether you're looking for a collaborator on an exciting project or just want to chat about the latest in tech, feel free to reach out. Let's innovate and grow together!</h3>
 
