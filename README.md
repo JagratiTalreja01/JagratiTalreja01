@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
 <h2 align="center">PhD and AI Engineer</h2> 
 
-<h3(Expert in Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification & Regression with Mathematical Precision)/></h2>
+<h3 align="center">Expert in Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification & Regression with Mathematical Precision)</h2>
 
 🌟 Welcome to My GitHub!
 
