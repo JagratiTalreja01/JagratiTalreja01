@@ -81,7 +81,7 @@
 - 🥇 Gold Medalist (B.Tech)
 - 🎓 Fully funded PhD (C2F Scholarship)
 - 🛰️ NASA & NSF Project Leadership
-- 📜 US Patent Filed (SafePath Navigate to Safety)
+
 
 
 🤝 Let's Connect: Whether you're looking for a collaborator on an exciting project or just want to chat about the latest in tech, feel free to reach out. Let's innovate and grow together!</h3>
