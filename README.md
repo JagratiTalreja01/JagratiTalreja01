@@ -8,6 +8,11 @@
 👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally. 
 I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at North Carolina A&T State University, working at the intersection of:
 
+<p align="right">
+  <img src="./NASA_Logo.PNG" width="110"/><br>
+  <img src="./NSF_logo.png" width="95"/>
+</p>
+
 <img src="./NASA_Logo.PNG" width="120" align="right" style="margin-left:15px;"/>
 <img src="./NSF_logo.png" width="120" align="right" style="margin-left:15px;"/>
 
