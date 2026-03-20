@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
 <h2 align="center">PhD and AI/ML Engineer</h2> 
 
-<h3 align="center">Expert in Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification & Regression with Mathematical Precision</h2>
+<h3 align="center">Expert in Remote Sensing Satellite Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification, SAR-to-optical Translation & Regression with Mathematical Precision</h2>
 
 🌟 Welcome to My GitHub!
 
@@ -12,6 +12,10 @@
 🤖 Machine Learning & Deep Learning: Leveraging the power of AI to solve complex problems and drive progress. 
 
 👁️ Computer Vision: Transforming the way we interact with the digital world through advanced image and video analysis. 
+
+🛰️ Remote Sensing & Geospatial AI: Building AI-driven pipelines for satellite imagery (Sentinel-1 SAR, Sentinel-2 Optical, UAV), focusing on flood mapping, environmental monitoring, multimodal data fusion, and SAR–optical translation.
+
+⚛️ Quantum-Inspired Machine Learning: Exploring hybrid classical-quantum approaches for efficient representation and learning from high-dimensional geospatial data.
 
 🌐 Web Development: Building sleek, user-friendly, and efficient web applications tailored to meet diverse needs. 
 
