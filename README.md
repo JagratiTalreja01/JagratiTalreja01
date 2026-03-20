@@ -8,10 +8,8 @@
 👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally. 
 I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at North Carolina A&T State University, working at the intersection of:
 
-<div align="right">
-  <img src="./NASA_Logo.PNG" width="140"/><br><br>
-  <img src="./NSF_logo.png" width="120"/>
-</div>
+<img src="./NASA_Logo.PNG" width="120" align="right"/>
+<img src="./NSF_logo.png" width="100" align="right"/>
 
 <ul>
 <li>🌌 <b>Remote Sensing & Earth Observation</b></li>
@@ -29,7 +27,6 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 <li>Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)</li>
 <li>Quantum-inspired machine learning for geospatial data encoding and analysis</li>
 </ul>
-
 
 💡 My work bridges **theory → real-world deployment**, combining physics-aware modeling, deep learning, and emerging quantum paradigms. 
 
