@@ -117,7 +117,7 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,linux,docker,aws,gcp,azure,git,github,mysql,mongodb,c,cpp,matlab" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,mysql,mongodb,c,cpp,matlab" />
 </p>
 
 ---
