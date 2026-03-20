@@ -101,6 +101,40 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 - 🎓 Fully funded PhD (C2F Scholarship)
 - 🛰️ NASA & NSF Project Leadership
 
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,linux,docker,aws,gcp,azure,git,github,mysql,mongodb,c,cpp,matlab" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=radical)
+
+</td>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=radical)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JagratiTalreja01&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagratiTalreja01&theme=react-dark)
+
+---
 
 
 🤝 Let's Connect: Whether you're looking for a collaborator on an exciting project or just want to chat about the latest in tech, feel free to reach out. Let's innovate and grow together!</h3>
