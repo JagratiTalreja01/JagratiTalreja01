@@ -140,10 +140,9 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagratiTalreja01&theme=tokyo-night&hide_border=true" />
 
 </p>
 
