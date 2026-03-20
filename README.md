@@ -5,7 +5,25 @@
 
 🌟 Welcome to My GitHub!
 
-👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally.
+👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally. 
+I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at North Carolina A&T State University, working at the intersection of:
+
+- 🌌 **Remote Sensing & Earth Observation**
+- 🤖 **Artificial Intelligence & Deep Learning**
+- ⚛️ **Quantum-Inspired Machine Learning**
+- 🛰️ **Multi-Modal Satellite Data Fusion**
+
+I design **scalable AI pipelines for satellite imagery**, focusing on:
+- Flood monitoring & disaster assessment
+- SAR–Optical image translation
+- Super-resolution for Sentinel imagery
+- Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)
+- Quantum-inspired machine learning for geospatial data encoding and analysis
+
+
+💡 My work bridges **theory → real-world deployment**, combining physics-aware modeling, deep learning, and emerging quantum paradigms. 
+
+---
 
 💡 Expertise: 
 
@@ -28,6 +46,7 @@
 - 🛰️ **NASA & NSF Funded Research Leadership**
   - Co-leading AI-driven geospatial analytics projects
   - Developing scalable pipelines for environmental monitoring
+  - I am also the first to initiate research on quantum-inspired machine learning frameworks within the College of Science and Technology at North Carolina A&T State University.
 
 - 🧠 **Advanced AI Architectures**
   - CNNs, GANs, Transformers, Diffusion Models
