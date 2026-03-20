@@ -26,7 +26,7 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="120"/><br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/National_Science_Foundation_logo.svg" width="120"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/0/07/National_Science_Foundation_logo.svg" width="120](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/National_Science_Foundation_logo.svg/320px-National_Science_Foundation_logo.svg.png)"/>
 
 </td>
 </tr>
