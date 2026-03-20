@@ -79,6 +79,12 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 - 📄 ISPRS (Accepted)
 - 📄 Multiple high-impact papers under review (Quantum ML + Remote Sensing)
 
+<img
+  src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,github,vscode,matlab,mysql,mongodb,aws,azure,gcp,c,cpp,java,javascript,nodejs"
+  align="right"
+  width="360"
+/>
+
 ## 🛠️ Technical Expertise
 
 ### 🤖 AI & Machine Learning
