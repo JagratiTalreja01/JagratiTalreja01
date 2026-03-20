@@ -120,12 +120,12 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </td>
-<td width="50%">
+<td width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=tokyonight&hide_border=true" />
 
