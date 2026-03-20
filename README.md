@@ -11,10 +11,12 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 <img src="./NASA_Logo.PNG" width="120" align="right" style="margin-left:15px;"/>
 <img src="./NSF_logo.png" width="120" align="right" style="margin-left:15px;"/>
 
+<ul>
 🌌 <b>Remote Sensing & Earth Observation</b></li>
 🤖 <b>Artificial Intelligence & Deep Learning</b></li>
 ⚛️ <b>Quantum-Inspired Machine Learning</b></li>
 🛰️ <b>Multi-Modal Satellite Data Fusion</b></li>
+</ul>
 
 <p>I design <b>scalable AI pipelines for satellite imagery</b>, focusing on:</p>
 
