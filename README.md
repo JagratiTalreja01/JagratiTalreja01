@@ -20,6 +20,18 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 - Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)
 - Quantum-inspired machine learning for geospatial data encoding and analysis
 
+</td>
+
+<td width="30%" align="center" valign="top">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="120"/><br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/National_Science_Foundation_logo.svg" width="120"/>
+
+</td>
+</tr>
+</table>
+
 
 💡 My work bridges **theory → real-world deployment**, combining physics-aware modeling, deep learning, and emerging quantum paradigms. 
 
