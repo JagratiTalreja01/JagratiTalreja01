@@ -141,6 +141,8 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 
 <br/>
+<img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagratiTalreja01&theme=tokyonight" />
 
 </p>
