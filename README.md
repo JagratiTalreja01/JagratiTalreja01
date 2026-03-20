@@ -10,7 +10,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="40%" valign="top">
 
 <ul>
 <li>🌌 <b>Remote Sensing & Earth Observation</b></li>
@@ -31,7 +31,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="60%" align="right" valign="top">
 
 <img src="./NASA_Logo.PNG" width="140" alt="NASA Logo"/><br><br>
 <img src="./NSF_logo.png" width="120" alt="NSF Logo"/>
