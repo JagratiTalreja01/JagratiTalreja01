@@ -120,14 +120,14 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </td>
-<td>
+<td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
@@ -135,10 +135,17 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 ---
 
-## 🔥 GitHub Activity
+## 🔥 GitHub Activity & Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JagratiTalreja01&theme=radical)
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagratiTalreja01&theme=tokyo-night&hide_border=true" />
+
+</p>
 
 
 ---
