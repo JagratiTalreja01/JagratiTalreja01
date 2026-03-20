@@ -10,9 +10,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <div align="right">
   <img src="./NASA_Logo.PNG" width="120"/>
-</div>
-
-<div align="right">
+  <br>
   <img src="./NSF_logo.png" width="100"/>
 </div>
 
