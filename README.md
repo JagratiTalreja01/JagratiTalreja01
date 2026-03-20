@@ -8,27 +8,37 @@
 👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilizing my skills to progress professionally and personally. 
 I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at North Carolina A&T State University, working at the intersection of:
 
-- 🌌 **Remote Sensing & Earth Observation**
-- 🤖 **Artificial Intelligence & Deep Learning**
-- ⚛️ **Quantum-Inspired Machine Learning**
-- 🛰️ **Multi-Modal Satellite Data Fusion**
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I design **scalable AI pipelines for satellite imagery**, focusing on:
-- Flood monitoring & disaster assessment
-- SAR–Optical image translation
-- Super-resolution for Sentinel imagery
-- Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)
-- Quantum-inspired machine learning for geospatial data encoding and analysis
+<ul>
+<li>🌌 <b>Remote Sensing & Earth Observation</b></li>
+<li>🤖 <b>Artificial Intelligence & Deep Learning</b></li>
+<li>⚛️ <b>Quantum-Inspired Machine Learning</b></li>
+<li>🛰️ <b>Multi-Modal Satellite Data Fusion</b></li>
+</ul>
+
+<p>I design <b>scalable AI pipelines for satellite imagery</b>, focusing on:</p>
+
+<ul>
+<li>Flood monitoring & disaster assessment</li>
+<li>SAR–Optical image translation</li>
+<li>Super-resolution for Sentinel imagery</li>
+<li>Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)</li>
+<li>Quantum-inspired machine learning for geospatial data encoding and analysis</li>
+</ul>
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="120"/><br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/320px-NASA_logo.svg.png" width="120"/><br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/National_Science_Foundation_logo.svg/320px-National_Science_Foundation_logo.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/National_Science_Foundation_logo.svg/320px-National_Science_Foundation_logo.svg.png" width="120"/>
 
 </td>
+
 </tr>
 </table>
 
