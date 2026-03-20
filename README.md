@@ -139,6 +139,6 @@ I design **scalable AI pipelines for satellite imagery**, focusing on:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JagratiTalreja01&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JagratiTalreja01&theme=react-dark)
+
 
 ---
