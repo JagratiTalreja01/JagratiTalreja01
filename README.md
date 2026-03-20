@@ -33,9 +33,8 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <td width="35%" align="center" valign="top">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/320px-NASA_logo.svg.png" width="120"/><br><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/National_Science_Foundation_logo.svg/320px-National_Science_Foundation_logo.svg.png" width="120"/>
+<img src="./NASA_Logo.PNG" width="140" alt="NASA Logo"/><br><br>
+<img src="./NSF_logo.png" width="120" alt="NSF Logo"/>
 
 </td>
 
