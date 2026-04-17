@@ -124,9 +124,8 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,arduino,aws,azure,c,cpp,css,docker,git,github,html,java,js,linux,matlab,mongodb,mysql,nodejs,opencv,python,pytorch,sklearn,tensorflow,gcp&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cpp,css,docker,git,github,html,java,js,linux,matlab,mongodb,mysql,nodejs,opencv,python,pytorch,sklearn,tensorflow,gcp&perline=10&theme=dark" />
 </p>
----
 
 ## 📊 GitHub Stats
 
