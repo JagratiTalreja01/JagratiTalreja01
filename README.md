@@ -5,9 +5,6 @@
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+Scientist;AI/ML+Engineer;Remote+Sensing+Scientist;Quantum+Machine+Learning;NASA+%26+NSF+Projects&center=true&width=700&height=50">
-</p>
-<p align="center">
 NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Learning • Quantum AI
 </p>
 <h2 align="center">PhD and AI/ML Engineer</h2> 
