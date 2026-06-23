@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="banner.jfif" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Dr. Jagrati Talreja</h1>
-
-<h3 align="center">
+<h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
 </h3>
 
