@@ -73,10 +73,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 ## 📚 Publications & Contributions
 
-- 📄 IEEE Access, Springer, Elsevier, Wiley publications
-- 📄 IGARSS 2026 (Accepted)
-- 📄 IEEE Radar Conference 2026 (Accepted)
-- 📄 ISPRS (Accepted)
+- 📄 IEEE TGRS, JSTARS, Access, Springer, Elsevier, Wiley publications
+- 📄 IGARSS 2026 
+- 📄 IEEE Radar Conference 2026 
+- 📄 ISPRS Conference 2026
 - 📄 Multiple high-impact papers under review (Quantum ML + Remote Sensing)
 
 
