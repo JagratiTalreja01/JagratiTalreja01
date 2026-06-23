@@ -1,4 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
+<p align="center">
+  <img src="banner.gif" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Dr. Jagrati Talreja</h1>
+
+<h3 align="center">
+Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
+</h3>
+
+<p align="center">
+NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Learning • Quantum AI
+</p>
 <h2 align="center">PhD and AI/ML Engineer</h2> 
 
 <h3 align="center">Expert in Remote Sensing Satellite Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification, SAR-to-optical Translation & Regression with Mathematical Precision</h2>
