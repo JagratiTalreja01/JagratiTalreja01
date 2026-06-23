@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
+<p align="center">
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
+</p>
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+Scientist;AI/ML+Engineer;Remote+Sensing+Scientist;Quantum+Machine+Learning;NASA+%26+NSF+Projects&center=true&width=700&height=50">
