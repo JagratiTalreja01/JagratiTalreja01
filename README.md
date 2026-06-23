@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%">
+  <img src="banner.jfif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dr. Jagrati Talreja</h1>
