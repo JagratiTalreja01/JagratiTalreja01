@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Dr.+Jagrati+Talreja" alt="Typing SVG" />
 </p>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JagratiTalreja01">
 <p align="center">
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
 </p>
