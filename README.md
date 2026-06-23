@@ -14,6 +14,9 @@ NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Le
 <h3 align="center">Expert in Remote Sensing Satellite Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification, SAR-to-optical Translation & Regression with Mathematical Precision</h2>
 
 🌟 Welcome to My GitHub!
+<p align="center">
+<img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/github-contribution-grid-snake.svg">
+</p>
 
 👨‍💻 About Me: I'm a passionate Artificial Intelligence Engineer and a highly motivated individual aiming to achieve high career growth through continuous learning and utilising my skills to progress professionally and personally. 
 I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at North Carolina A&T State University, working at the intersection of:
