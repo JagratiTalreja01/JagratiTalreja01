@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jagrati Talreja</h1>
 <p align="center">
-Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Jagrati+Talreja" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/github-contribution-grid-snake.svg">
+Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=AI+Research+Scientist;AI/ML+Engineer;Remote+Sensing+Scientist;Quantum+Machine+Learning;NASA+%26+NSF+Projects&center=true&width=700&height=50">
