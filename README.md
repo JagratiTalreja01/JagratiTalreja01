@@ -95,7 +95,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🤖 AI & Machine Learning
 - Deep Learning (PyTorch, TensorFlow)
@@ -111,7 +111,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 - Flood Mapping & Environmental Monitoring
 
 </td>
-<td width="50%">
+<td width="40%">
 
 ### ⚛️ Quantum & Advanced Systems
 - Quantum-inspired ML pipelines
