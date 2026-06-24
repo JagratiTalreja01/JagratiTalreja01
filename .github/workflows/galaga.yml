@@ -1,24 +1,11 @@
 name: Generate Galaga
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  test:
     runs-on: ubuntu-latest
-    steps:
-      - uses: cyprieng/github-contribution-galaga@v1
-        with:
-          github_user_name: JagratiTalreja01
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - run: echo "Galaga workflow detected successfully"
