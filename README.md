@@ -167,7 +167,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 <table>
 <tr>
 <td width="40%">
-<img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
+<!-- Contribution streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
+</p>
 
 </td>
 <td width="60%">
