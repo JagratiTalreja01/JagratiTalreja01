@@ -34,7 +34,6 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 <p>I design <b>scalable AI pipelines for satellite imagery</b>, focusing on:</p>
 
 <ul>
-<li>Flood monitoring & disaster assessment</li>
 <li>SAR–Optical image translation</li>
 <li>Super-resolution for Sentinel imagery</li>
 <li>Multimodal learning (Sentinel-1 + Sentinel-2 + UAV)</li>
