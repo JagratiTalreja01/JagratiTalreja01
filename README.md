@@ -93,6 +93,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 ## 🛠️ Technical Expertise
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🤖 AI & Machine Learning
 - Deep Learning (PyTorch, TensorFlow)
 - Computer Vision & Image Processing
@@ -106,6 +110,9 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 - Multimodal Data Fusion
 - Flood Mapping & Environmental Monitoring
 
+</td>
+<td width="40%">
+
 ### ⚛️ Quantum & Advanced Systems
 - Quantum-inspired ML pipelines
 - Feature encoding for quantum circuits
@@ -115,6 +122,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 - CUDA, CuDNN, GPU Clusters (A100/H100)
 - Docker, Linux, VS Code
 - FPGA & Edge AI systems
+
+</td>
+</tr>
+</table>
 
 ## 🏆 Achievements
 
