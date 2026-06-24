@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 <p align="center">
-Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning
+Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
 </p>
 <p align="center">
 NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Learning • Quantum AI
