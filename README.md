@@ -154,19 +154,12 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 <tr>
 <td width="60%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
-  height="180"
-/>
+<img src="https://github-contributor-stats.vercel.app/api?username=JagratiTalreja01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </td>
-
 <td width="40%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
@@ -178,25 +171,16 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <table>
 <tr>
-
 <td width="40%" align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true"
-  height="180"
-/>
+<img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
 
 </td>
-
 <td width="60%" align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JagratiTalreja01&theme=tokyonight"
-  height="180"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagratiTalreja01&theme=tokyo-night&hide_border=true" />
 
 </td>
-
 </tr>
 </table>
 
