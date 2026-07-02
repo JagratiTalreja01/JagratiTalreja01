@@ -150,20 +150,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JagratiTalreja01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-</td>
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagratiTalreja01&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagratiTalreja01&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagratiTalreja01&theme=tokyonight" />
+</p>
 
 ---
 
