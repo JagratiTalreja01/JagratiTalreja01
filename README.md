@@ -163,8 +163,7 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
   <tr>
     <td width="40%" align="center">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JagratiTalreja01&theme=tokyonight&hide_border=true" 
-        alt="GitHub Streak Stats" 
+        <img src="https://streak-stats.demolab.com?user=JagratiTalreja01&theme=tokyonight&hide_border=true" />
       />
     </td>
     <td width="60%" align="center">
