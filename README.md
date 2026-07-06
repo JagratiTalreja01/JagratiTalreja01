@@ -173,7 +173,6 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 </td>
 </tr>
 </table>
-</p>
 
 
 ---
