@@ -12,7 +12,9 @@ NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Le
 
 <h3 align="center">Expert in Computer Vision, Image & Video Processing, Advancing Super-Resolution, Remote Sensing, Segmentation, Classification, SAR-to-optical Translation, Data Fusion & Regression with Mathematical Precision</h2>
 
-<p Wanna play a game of Chess ♟></p> 
+<p align="center">
+  Wanna play a game of Chess ♟
+</p> 
 
 <p align="center">
   <a href="https://jagratitalreja01.github.io/chess-ai/">
