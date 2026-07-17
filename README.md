@@ -10,7 +10,7 @@ NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Le
 </p>
 <h2 align="center">PhD and AI/ML Engineer</h2> 
 
-<h3 align="center">Expert in Computer Vision, Image & Video Processing, Advancing Super-Resolution, Remote Sensing, Segmentation, Classification, SAR-to-optical Translation, Data Fusion & Regression with Mathematical Precision</h2>
+<h3 align="center">Expert in Computer Vision, Image & Video Processing, Advancing Super-Resolution, Remote Sensing, Segmentation, Classification, SAR-to-optical Translation, Data Fusion & Regression with Mathematical Precision</h3>
 
 <h3 Wanna play a game of Chess ♟></h3> 
 
