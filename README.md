@@ -17,13 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Click the chessboard to enter the arena.</b>
-</p>**
-
-<p align="center">
-  <b>Click the chessboard to enter the arena.</b>
-</p>
 
 <p align="center">
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
