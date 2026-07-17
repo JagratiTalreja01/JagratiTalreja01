@@ -5,17 +5,21 @@
   <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
-## ♟ Dr. J's Chess Arena
+**## ♟ Dr. J's Chess Arena
 
 <p align="center">
   <a href="https://jagratitalreja01.github.io/chess-ai/">
     <img
-      src="assets/drj-chess-demo.gif"
-      alt="Dr. J's Chess Arena — Click to play"
-      width="900"
+      src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/main/assets/drj-chess-animation.svg"
+      alt="Dr. J's Chess Arena animated chess demonstration"
+      width="100%"
     />
   </a>
 </p>
+
+<p align="center">
+  <b>Click the chessboard to enter the arena.</b>
+</p>**
 
 <p align="center">
   <b>Click the chessboard to enter the arena.</b>
