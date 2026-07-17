@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Dr.+Jagrati+Talreja" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
 
 **## ♟ Dr. J's Chess Arena
 
@@ -139,6 +136,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+</p>
 
 ## 🏆 Achievements
 
