@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dr. J's Chess Arena animated demonstration</title>
+  <desc id="desc">An animated monochrome chessboard showing opening moves and a call to enter Dr. J's Chess Arena.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050508"/>
+      <stop offset="1" stop-color="#111116"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".55"/>
+    </filter>
+    <style>
+      .title{font:700 34px Inter,Segoe UI,Arial,sans-serif;fill:#fff}
+      .sub{font:400 18px Inter,Segoe UI,Arial,sans-serif;fill:#aaaab2}
+      .small{font:700 15px Inter,Segoe UI,Arial,sans-serif;fill:#fff}
+      .muted{font:700 13px Inter,Segoe UI,Arial,sans-serif;fill:#888894;letter-spacing:2px}
+      .piece{font:38px "DejaVu Sans",Arial,sans-serif;text-anchor:middle;dominant-baseline:middle}
+      .chip{fill:#121218;stroke:#3a3a42}
+      .pulse{animation:pulse 1.8s ease-in-out infinite;transform-origin:600px 273px}
+      @keyframes pulse{0%,100%{opacity:.88;transform:scale(1)}50%{opacity:1;transform:scale(1.02)}}
+    </style>
+  </defs>
+
+  <rect width="1000" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="328" height="312" rx="24" fill="#0f0f12" stroke="#2d2d35" filter="url(#shadow)"/>
+  <text x="48" y="51" class="muted">LIVE DEMO</text>
+
+  <!-- Board -->
+  <g transform="translate(48 72)">
+    <rect width="256" height="256" rx="10" fill="#f2f2f2"/>
+    <g fill="#1c1c20">
+      <path d="M32 0h32v32H32zM96 0h32v32H96zM160 0h32v32H160zM224 0h32v32H224zM0 32h32v32H0zM64 32h32v32H64zM128 32h32v32H128zM192 32h32v32H192zM32 64h32v32H32zM96 64h32v32H96zM160 64h32v32H160zM224 64h32v32H224zM0 96h32v32H0zM64 96h32v32H64zM128 96h32v32H128zM192 96h32v32H192zM32 128h32v32H32zM96 128h32v32H96zM160 128h32v32H160zM224 128h32v32H224zM0 160h32v32H0zM64 160h32v32H64zM128 160h32v32H128zM192 160h32v32H192zM32 192h32v32H32zM96 192h32v32H96zM160 192h32v32H160zM224 192h32v32H224zM0 224h32v32H0zM64 224h32v32H64zM128 224h32v32H128zM192 224h32v32H192z"/>
+    </g>
+
+    <!-- Static major pieces -->
+    <g class="piece" fill="#08080a" stroke="#eee" stroke-width=".5">
+      <text x="16" y="16">♜</text><text x="48" y="16">♞</text><text x="80" y="16">♝</text><text x="112" y="16">♛</text><text x="144" y="16">♚</text><text x="176" y="16">♝</text><text x="208" y="16">♞</text><text x="240" y="16">♜</text>
+    </g>
+    <g class="piece" fill="#fff" stroke="#111" stroke-width=".7">
+      <text x="16" y="240">♖</text><text x="48" y="240">♘</text><text x="80" y="240">♗</text><text x="112" y="240">♕</text><text x="144" y="240">♔</text><text x="176" y="240">♗</text><text x="240" y="240">♖</text>
+    </g>
+
+    <!-- Pawns except moving e-pawns -->
+    <g class="piece" fill="#08080a" stroke="#eee" stroke-width=".5">
+      <text x="16" y="48">♟</text><text x="48" y="48">♟</text><text x="80" y="48">♟</text><text x="112" y="48">♟</text><text x="176" y="48">♟</text><text x="208" y="48">♟</text><text x="240" y="48">♟</text>
+    </g>
+    <g class="piece" fill="#fff" stroke="#111" stroke-width=".7">
+      <text x="16" y="208">♙</text><text x="48" y="208">♙</text><text x="80" y="208">♙</text><text x="112" y="208">♙</text><text x="176" y="208">♙</text><text x="208" y="208">♙</text><text x="240" y="208">♙</text>
+    </g>
+
+    <!-- Animated white e-pawn: e2 to e4 -->
+    <text x="144" y="208" class="piece" fill="#fff" stroke="#111" stroke-width=".7">♙
+      <animate attributeName="y" values="208;208;144;144;144" keyTimes="0;.15;.32;.75;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Animated black e-pawn: e7 to e5 -->
+    <text x="144" y="48" class="piece" fill="#08080a" stroke="#eee" stroke-width=".5">♟
+      <animate attributeName="y" values="48;48;48;112;112" keyTimes="0;.32;.48;.63;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Animated white knight: g1 to f3 -->
+    <text x="208" y="240" class="piece" fill="#fff" stroke="#111" stroke-width=".7">♘
+      <animate attributeName="x" values="208;208;176;176" keyTimes="0;.63;.82;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="240;240;176;176" keyTimes="0;.63;.82;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <text x="48" y="317" class="small">e4 · e5 · Nf3</text>
+
+  <!-- Content -->
+  <text x="405" y="94" class="title">Dr. J's Chess Arena</text>
+  <text x="405" y="132" class="sub">Challenge the AI—or challenge Dr. J.</text>
+
+  <g transform="translate(405 170)">
+    <rect class="chip" width="112" height="40" rx="20"/>
+    <text x="56" y="25" text-anchor="middle" class="small">Minimax</text>
+  </g>
+  <g transform="translate(532 170)">
+    <rect class="chip" width="132" height="40" rx="20"/>
+    <text x="66" y="25" text-anchor="middle" class="small">Alpha-Beta</text>
+  </g>
+  <g transform="translate(679 170)">
+    <rect class="chip" width="118" height="40" rx="20"/>
+    <text x="59" y="25" text-anchor="middle" class="small">Play vs AI</text>
+  </g>
+
+  <g class="pulse">
+    <rect x="405" y="245" width="390" height="56" rx="28" fill="#fff"/>
+    <text x="435" y="280" style="font:700 16px Inter,Segoe UI,Arial,sans-serif;fill:#000">Click the chessboard to enter the arena</text>
+    <text x="760" y="281" style="font:700 22px Inter,Segoe UI,Arial,sans-serif;fill:#000">↗</text>
+  </g>
+  <text x="405" y="330" class="sub">jagratitalreja01.github.io/chess-ai</text>
+</svg>
