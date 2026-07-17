@@ -4,6 +4,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
+## ♟ Featured Project
+
+<p align="center">
+  <a href="https://jagratitalreja01.github.io/chess-ai/">
+    <img src="https://img.shields.io/badge/♟-Dr.%20J's%20Chess%20Arena-111111?style=for-the-badge" />
+  </a>
+</p>
 <p align="center">
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
 </p>
