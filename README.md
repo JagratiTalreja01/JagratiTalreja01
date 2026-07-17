@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Dr.+Jagrati+Talreja" alt="Typing SVG" />
 </p>
 
+<p align="center">
+Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
+</p>
+<p align="center">
+NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Learning • Quantum AI
+</p>
+<h2 align="center">PhD and AI/ML Engineer</h2> 
+
+<h3 align="center">Expert in Computer Vision, Image & Video Processing, Advancing Super-Resolution, Remote Sensing, Segmentation, Classification, SAR-to-optical Translation, Data Fusion & Regression with Mathematical Precision</h2>
+
 **## ♟ Dr. J's Chess Arena
 
 <p align="center">
@@ -13,17 +23,6 @@
     />
   </a>
 </p>
-
-
-<p align="center">
-Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
-</p>
-<p align="center">
-NASA & NSF Funded Research • Earth Observation • Computer Vision • Deep Learning • Quantum AI
-</p>
-<h2 align="center">PhD and AI/ML Engineer</h2> 
-
-<h3 align="center">Expert in Computer Vision, Image & Video Processing, Advancing Super-Resolution, Remote Sensing, Segmentation, Classification, SAR-to-optical Translation, Data Fusion & Regression with Mathematical Precision</h2>
 
 🌟 Welcome to My GitHub!
 
