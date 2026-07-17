@@ -4,13 +4,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
-<a href="https://jagratitalreja01.github.io/chess-ai/">
-  <img
-    src="assets/drj-chess-demo.gif"
-    alt="Play Dr. J's Chess Arena"
-    width="100%"
-  />
-</a>
+
+## ♟ Dr. J's Chess Arena
+
+<p align="center">
+  <a href="https://jagratitalreja01.github.io/chess-ai/">
+    <img
+      src="assets/drj-chess-demo.gif"
+      alt="Dr. J's Chess Arena — Click to play"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the chessboard to enter the arena.</b>
+</p>
+
 <p align="center">
 Postdoctoral Fellow | AI/ML Engineer | Remote Sensing & Quantum Machine Learning Expert
 </p>
