@@ -138,10 +138,6 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
-
 ## 🏆 Achievements
 
 - 🥇 Gold Medalist (B.Tech)
@@ -162,6 +158,10 @@ I am a **Postdoctoral Fellow, Co-Lead & Co-PI on NASA & NSF funded projects** at
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cpp,css,docker,git,github,html,java,js,linux,matlab,mongodb,mysql,nodejs,opencv,python,pytorch,sklearn,tensorflow,gcp&perline=20&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JagratiTalreja01/JagratiTalreja01/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ## 📊 GitHub Stats
